@@ -1,0 +1,15 @@
+### get
+GET http://localhost:8080/api/getAll
+
+### getContact
+GET http://localhost:8080/getAll
+
+###post
+POST http://localhost:8080/post
+Content-Type: application/json
+
+{
+    "name":"fjhf",
+    "email":"f@gmail.com",
+    "message":"e"
+}
